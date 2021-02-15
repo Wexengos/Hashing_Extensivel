@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1613275154 source:c:\users\giovane\desktop\projetos\hashing\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Balde.h"
+	"Diretorio.h"
+
+1613274952 c:\users\giovane\desktop\projetos\hashing\balde.h
+	<iostream>
+	<string>
+	<vector>
+
+1613274962 source:c:\users\giovane\desktop\projetos\hashing\balde.cpp
+	"Balde.h"
+	<iostream>
+	<string>
+	<vector>
+
+1613275063 c:\users\giovane\desktop\projetos\hashing\diretorio.h
+	<iostream>
+	<string>
+
